@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "456402682806",
+    "firebase_url": "https://taqueria-8706f.firebaseio.com",
+    "project_id": "taqueria-8706f",
+    "storage_bucket": "taqueria-8706f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456402682806:android:814e416ca41f55b5",
+        "android_client_info": {
+          "package_name": "com.example.williams.taqueria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456402682806-mq2pt3ibpbpf65bimrf3ba0emnuq6c8l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC45t5tHRMhhcQj8mrr7VWppIGGMW2A2Yc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
